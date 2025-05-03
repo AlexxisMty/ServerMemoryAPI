@@ -21,8 +21,7 @@
 1. Download the plugin file [ServerMemoryAPI](#) or clone this repository.
 2. Place the `.zip` file and unzip it in the `plugins/` folder of your PocketMine-MP server.
 3. Ensure you have PocketMine-MP version 5.0.0 or higher.
-4. Make sure you have Vecnavium FormsUI installed: https://github.com/Vecnavium/FormsUI
-5. Restart the server to activate the plugin.
+4. Restart the server to activate the plugin.
 
 ---
 
